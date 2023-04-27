@@ -1,5 +1,5 @@
 class Address {
-  static const String raffleTime = '0xF981b576De4D62934d5CDB04C6891D045C808E6F';
+  static const String raffleTime = '0xA923e5d755C2D57d5e89298BF8630533a6090BdE';
   static const String tickets = '0xEE8555eE0F0101efE3dEA2a357ca549A30De0EE6';
   static const String weth = '0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa';
   static const String link = '0x326C977E6efc84E512bB9C30f76E30c160eD06FB';
